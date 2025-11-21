@@ -25,7 +25,7 @@ Add `zig.rb` to your `build.zig.zon`:
 ```zig
 .dependencies = .{
     .zig_rb = .{
-        .url = "https://github.com/yourusername/zig.rb/archive/main.tar.gz",
+        .url = "https://github.com/furunkel/zig.rb/archive/main.tar.gz",
         .hash = "...",
     },
 },
